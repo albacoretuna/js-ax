@@ -4,10 +4,9 @@ Safety tips for working with JavaScript
 A collection of tips to make your JavaScript code safe for you and others. 
 
 ## Contributing
-Please feel free to add tips to the list!
+Please feel free edit this file (README.md) and add your horror stories about bad JavaScript code. 
 
-
-
+# Tips 
 
 #### Pro Tip: separate and name your callbacks and bind them to avoid stagnant closure values
 
